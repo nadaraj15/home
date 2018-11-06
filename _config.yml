@@ -1,15 +1,16 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Cloud Technology Blog
+author: Naddy aka Nadaraj Prabhu
+email: nadaraj1527@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to the cloud technology blog, This blog covers Azure, AWS , GCP 
+  and Alibaba. Get in touch with latest and best practices on cloud and 
+  keep learninng.
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
-rss: rss
+twitter_username: nadaraj_15
+github_username:  nadaraj15
+linkedin_username: nadaraj15
+# rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
