@@ -12,4 +12,4 @@ I'm Nadaraj Prabhu, often known as 'naddy'. I'm a Cloud Enthusiast, working as a
 Photo: 
 ![alt text][logo]
 
-[logo]: https://github.com/nadaraj15/home/blob/master/NadarajPhoto.png "Logo Title Text 2"
+[logo]: https://github.com/nadaraj15/home/blob/master/NadarajPhoto.png?raw=true "Logo Title Text 2"
